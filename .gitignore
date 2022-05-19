@@ -1,0 +1,15 @@
+node_modules
+
+# dependencies
+/node_modules
+package-lock.json
+
+# testing
+
+# production
+/build
+/dist
+
+# misc
+
+npm-debug.log*
